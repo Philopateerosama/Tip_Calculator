@@ -1,7 +1,3 @@
----
-title: README.markdown
----
-
 # 💸 Tip Calculator – Split Bills Like a Pro! 🎉
 
 Welcome to my **Tip Calculator**, built on Day 2 of the #100DaysOfCode challenge with Dr. Angela Yu’s Python Bootcamp! 🐍 This Python-powered tool makes dining out a breeze by calculating tips and splitting bills among friends. Ready to settle the tab like a rockstar? 🌟
